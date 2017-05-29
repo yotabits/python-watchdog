@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="1">
   <name>watchdog</name>
-  <version>0.0.1</version>
+  <version>0.8.3</version>
   <description>Filesystem events monitoring</description>
   <maintainer email="tkostas75@gmail.com">tkostas</maintainer>
 
@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>catkin_pip</build_depend>
   
-  <run_depend>pathools</run_depend>
+  <run_depend>pathtools</run_depend>
   <run_depend>python-yaml</run_depend>
   <run_depend>python-argh</run_depend>
 
