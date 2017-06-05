@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="1">
-  <name>watchdog</name>
+  <name>python-watchdog</name>
   <version>0.8.3</version>
   <description>Filesystem events monitoring</description>
   <maintainer email="tkostas75@gmail.com">tkostas</maintainer>
